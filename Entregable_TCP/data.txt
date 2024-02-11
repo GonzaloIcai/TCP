@@ -1,0 +1,11 @@
+""USER-->PASSWORD""
+diego-->Diego@2023
+laura-->Laura!Pwd456
+carlos-->C@rlos&789
+ana-->Ana*Secure789
+samuel-->Samuel#2023
+luisa-->Luisa$Pass123
+marcos-->Marcos^Passw0rd
+elena-->Elena@Strong!23
+roberto-->Robert0#Secure
+sofia-->Sofia!Pa$$word23
